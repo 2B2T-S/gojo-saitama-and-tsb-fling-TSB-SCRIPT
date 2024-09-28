@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2B2T-S/Normal-gui-FLING-/refs/heads/main/fling%20tsb"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2B2T-S/sorcer-everyone-knows-tsb-flash-movesets/refs/heads/main/flash%20movesets%20for%20tsb%20and%20gojo"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2B2T-S/gojo-saitama-and-tsb-fling-TSB-SCRIPT/refs/heads/main/gojo%20and%20fling%20tsb"))()
